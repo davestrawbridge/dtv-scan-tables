@@ -1,0 +1,12 @@
+#----------------------------------------------------------------------------------------------
+# Auto-generated from:
+# <http://www.digitaluk.co.uk/coveragechecker/main/tradeexport/CA22%202TX>
+#----------------------------------------------------------------------------------------------
+# location and provider: UK, Whitehaven
+# date (yyyy-mm-dd)    : 2014-06-26
+#
+# T[2] <freq> <bw> <fec_hi> <fec_lo> <mod> <tm> <guard> <hi> [<plp_id>] [# comment]
+#----------------------------------------------------------------------------------------------
+T 650000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE         # C43- BBC A
+T 706000000 8MHz 2/3 NONE QAM64 8k 1/32 NONE         # C50- D3&4
+T2 674000000 8MHz 2/3 NONE QAM256 32k 1/128 NONE 0   # C46- BBC B HD
